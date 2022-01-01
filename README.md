@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onfrancis
+- 👋 Hi, I’m @onfranciis
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any beginner-level frontend projects
