@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onfranciis
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on any frontend projects
 - 📫 How to reach me - onukwufrancis@gmail.com
