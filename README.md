@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onfranciis
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning GraphQL
-- 💞️ I’m looking to collaborate on any frontend projects
+- 🌱 I’m currently learning GraphQL and Redux
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me - hello@onfranciis.dev
 
 <!---
