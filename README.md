@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onfranciis
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me - hello@onfranciis.dev
 
