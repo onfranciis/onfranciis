@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onfranciis
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning RTK
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me - hello@onfranciis.dev
 
