@@ -2,7 +2,9 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently harnessing Rust
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me - hello@onfranciis.dev
+  <!---
+  - 📫 How to reach me - hello@onfranciis.dev
+  --->
 
 
 # 📊GitHub Stats :
